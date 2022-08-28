@@ -1,0 +1,14 @@
+D:\EAD\Task-9\Task-9\obj\Debug\netcoreapp3.1\Task-9.csproj.AssemblyReference.cache
+D:\EAD\Task-9\Task-9\obj\Debug\netcoreapp3.1\Task-9.GeneratedMSBuildEditorConfig.editorconfig
+D:\EAD\Task-9\Task-9\obj\Debug\netcoreapp3.1\Task-9.AssemblyInfoInputs.cache
+D:\EAD\Task-9\Task-9\obj\Debug\netcoreapp3.1\Task-9.AssemblyInfo.cs
+D:\EAD\Task-9\Task-9\obj\Debug\netcoreapp3.1\Task-9.csproj.CoreCompileInputs.cache
+D:\EAD\Task-9\Task-9\bin\Debug\netcoreapp3.1\Task-9.exe
+D:\EAD\Task-9\Task-9\bin\Debug\netcoreapp3.1\Task-9.deps.json
+D:\EAD\Task-9\Task-9\bin\Debug\netcoreapp3.1\Task-9.runtimeconfig.json
+D:\EAD\Task-9\Task-9\bin\Debug\netcoreapp3.1\Task-9.runtimeconfig.dev.json
+D:\EAD\Task-9\Task-9\bin\Debug\netcoreapp3.1\Task-9.dll
+D:\EAD\Task-9\Task-9\bin\Debug\netcoreapp3.1\Task-9.pdb
+D:\EAD\Task-9\Task-9\obj\Debug\netcoreapp3.1\Task-9.dll
+D:\EAD\Task-9\Task-9\obj\Debug\netcoreapp3.1\Task-9.pdb
+D:\EAD\Task-9\Task-9\obj\Debug\netcoreapp3.1\Task-9.genruntimeconfig.cache
